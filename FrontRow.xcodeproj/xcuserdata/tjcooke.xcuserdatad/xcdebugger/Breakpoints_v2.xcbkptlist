@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BD3C7756-0906-4D73-8A44-D247A909D2A8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "793942A9-E0C9-4D16-A381-C3395514F364"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FrontRow/Model/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "load(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "793942A9-E0C9-4D16-A381-C3395514F364 - a448992630fecf12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FrontRow.load&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Swift.String) -&gt; &#x3c4;_0_0"
+                  moduleName = "FrontRow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tjcooke/Desktop/FrontRow/FrontRow/Model/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "793942A9-E0C9-4D16-A381-C3395514F364 - a448992630fecf73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FrontRow.load&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Swift.String) -&gt; &#x3c4;_0_0"
+                  moduleName = "FrontRow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tjcooke/Desktop/FrontRow/FrontRow/Model/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "2004">
+               </Location>
+               <Location
+                  uuid = "793942A9-E0C9-4D16-A381-C3395514F364 - a448992630fecf12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FrontRow.load&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Swift.String) -&gt; &#x3c4;_0_0"
+                  moduleName = "FrontRow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tjcooke/Desktop/FrontRow/FrontRow/Model/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "2004">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
